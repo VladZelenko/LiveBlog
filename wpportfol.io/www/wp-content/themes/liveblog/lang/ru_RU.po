@@ -1,0 +1,1411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LiveBlog v10.0.13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-03-22 11:29+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ liveblog
+#: 404.php:10
+msgid "Oops, This Page Could Not Be Found!"
+msgstr "Пупс, эта страница не может быть найдена!"
+
+# @ liveblog
+#: 404.php:11
+msgid "404"
+msgstr ""
+
+# @ liveblog
+#: 404.php:12
+msgid "Back to Homepage"
+msgstr "Вернуться на главную"
+
+# @ liveblog
+#: 404.php:14 content-none.php:15
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы можем и найти то, что вы  ищете. Возможно, поиск может помочь."
+
+# @ liveblog
+#: archive.php:27
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Метки: %s"
+
+# @ liveblog
+#: archive.php:30
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "День: %s"
+
+# @ liveblog
+#: archive.php:33
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Месяц: %s"
+
+# @ liveblog
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ liveblog
+#: archive.php:36
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Год: %s"
+
+# @ liveblog
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ liveblog
+#: archive.php:39
+msgid "Archives"
+msgstr "Архивы"
+
+# @ liveblog
+#: author.php:17
+msgid "Author Description"
+msgstr "Описание автора"
+
+# @ liveblog
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта запись защищена паролем. Введите пароль, чтобы увидеть комментарии."
+
+# @ liveblog
+#: comments.php:14
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+# @ liveblog
+#: comments.php:14 template-parts/post-meta.php:22
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ liveblog
+#: comments.php:14 template-parts/post-meta.php:22
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ liveblog
+#: comments.php:62
+msgid "Leave a Reply"
+msgstr "Написать ответ"
+
+# @ liveblog
+#: comments.php:67
+msgid "Name "
+msgstr "Имя"
+
+# @ liveblog
+#: comments.php:73
+msgid "Email "
+msgstr ""
+
+# @ liveblog
+#: comments.php:79
+msgid "Website"
+msgstr "Веб-сайт"
+
+# @ liveblog
+#: comments.php:83
+msgid "Comments "
+msgstr "Комментарии"
+
+# @ liveblog
+#: comments.php:84
+msgid "Submit "
+msgstr "Отправить"
+
+# @ liveblog
+#: content-none.php:6
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ liveblog
+#: content-none.php:10
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+# @ liveblog
+#: content.php:44
+#, php-format
+msgid "Contonue Reading %s"
+msgstr "Читать далее %s"
+
+# @ liveblog
+#: content.php:50
+msgid "Continue Reading"
+msgstr "Подробнее"
+
+# @ liveblog
+#: functions.php:50
+msgid "Main Menu"
+msgstr "Главное Меню"
+
+# @ liveblog
+#: functions.php:194
+msgid "Primary Sidebar"
+msgstr "Основной сайдбар"
+
+# @ liveblog
+#: functions.php:205 functions.php:217 functions.php:229
+#, php-format
+msgid "Footer %s"
+msgstr ""
+
+# @ liveblog
+#: functions.php:239 inc/customizer/panels/general-settings.php:311
+#: inc/customizer/panels/styling-options.php:104
+msgid "Footer"
+msgstr ""
+
+# @ liveblog
+#: functions.php:258
+msgid "Home"
+msgstr "Главная"
+
+# @ liveblog
+#: functions.php:287
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+# @ liveblog
+#: functions.php:290
+msgid "<i class=\"fa fa-share\"></i> Reply"
+msgstr "<i class=\"fa fa-share\"></i> Ответить"
+
+# @ liveblog
+#: functions.php:294
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+# @ liveblog
+#. translators: 1: date, 2: time
+#: functions.php:301
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ liveblog
+#: functions.php:301
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+# @ liveblog
+#: inc/customizer/customizer.php:29
+msgid "Body Background"
+msgstr "Цвет фона страницы"
+
+# @ liveblog
+#: inc/customizer/customizer.php:30
+msgid "Change the background color and image for body of theme"
+msgstr "Изменение цвета или загрузка изображения "
+
+# @ liveblog
+#: inc/customizer/general.php:8
+msgid "Social Profiles"
+msgstr "Социальные профили"
+
+# @ liveblog
+#: inc/customizer/general.php:9
+msgid "Enter links to your social profiles here to display them in header."
+msgstr "Введите ссылки на ваши социальные профили здесь, чтобы увидеть их в заголовке."
+
+# @ liveblog
+#: inc/customizer/general.php:21
+msgid "Facebook"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:34
+msgid "Twitter"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:47
+msgid "Google Plus"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:60
+msgid "Instagram"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:73
+msgid "YouTube"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:86
+msgid "Pinterest"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:99
+msgid "Flickr"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:112
+msgid "RSS"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:124
+msgid "LinkedIn"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:136
+msgid "Reddit"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/general.php:148
+msgid "Tumblr"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:12
+msgid "General Settings"
+msgstr "Основные настройки"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:13
+msgid "Here you can change general settings of theme"
+msgstr "Здесь вы можете изменить общие настройки темы"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:16
+msgid "Main Settings"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:17
+msgid "Common settings for your theme"
+msgstr "Общие настройки для вашей темы"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:31
+msgid "Regular Logo"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:45
+msgid "Pagination Type"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:48
+msgid "Numbered"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:49
+msgid "Next/Prev"
+msgstr "След./Пред."
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:61
+msgid "Scroll to Top Button"
+msgstr "Кнопка прокрутки вверх"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:64
+#: inc/customizer/panels/general-settings.php:105
+msgid "Show"
+msgstr "Показать"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:65
+#: inc/customizer/panels/general-settings.php:106
+msgid "Hide"
+msgstr "Скрыть"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:73
+#: inc/customizer/panels/styling-options.php:43
+msgid "Header"
+msgstr "Шапка"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:74
+msgid "Show or hide various elements available on header."
+msgstr "Показать или скрыть различные элементы, доступные в заголовке."
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:86
+msgid "Header Style"
+msgstr "Стиль шапки"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:89
+msgid "Style 1"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:90
+msgid "Style 2"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:91
+msgid "Style 3"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:102
+msgid "Tagline"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:117
+msgid "Sticky Menu"
+msgstr "Закрепленное меню"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:120
+msgid "Enable"
+msgstr "Включить"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:121
+msgid "Disable"
+msgstr "Отключить"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:129
+msgid "Post Options"
+msgstr "Настройки записи"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:142
+msgid "Show Featured Content on Detail Post"
+msgstr "Показывать миниатюру на страницах с записями"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:154
+msgid "Show Post Format Icon"
+msgstr "Показать иконку формата записи"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:166
+#: inc/widgets/widget-cat-posts.php:198
+#: inc/widgets/widget-popular-posts.php:180
+#: inc/widgets/widget-random-posts.php:181
+#: inc/widgets/widget-recent-posts.php:180 inc/widgets/widget-tabs.php:193
+msgid "Show Post Author"
+msgstr "Показывать автора"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:178
+#: inc/widgets/widget-cat-posts.php:204
+#: inc/widgets/widget-popular-posts.php:186
+#: inc/widgets/widget-random-posts.php:187
+#: inc/widgets/widget-recent-posts.php:186 inc/widgets/widget-tabs.php:199
+msgid "Show Post Date"
+msgstr "Показывать дату"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:190
+msgid "Show Post Tags"
+msgstr "Показать теги записи"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:202
+#: inc/widgets/widget-cat-posts.php:210
+#: inc/widgets/widget-popular-posts.php:192
+#: inc/widgets/widget-random-posts.php:193
+#: inc/widgets/widget-recent-posts.php:192 inc/widgets/widget-tabs.php:205
+msgid "Show Post Comments"
+msgstr "Показывать количество комментариев"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:214
+msgid "Show Post Categories"
+msgstr "Показывать категорию"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:226
+msgid "Enable Breadcrumbs?"
+msgstr "Включить хлебные крошки"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:238
+msgid "Author Info Box"
+msgstr "Раздел автора"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:250
+msgid "Next/Prev Article Links"
+msgstr "Следующая/Предыдущая статья"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:261
+#: template-parts/related-posts.php:41
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:275
+msgid "Show Related Posts"
+msgstr "Отображать похожие записи"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:287
+msgid "Related Posts By"
+msgstr "Похожие записи от"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:290 template-sitemap.php:22
+msgid "Categories"
+msgstr "Категории"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:291 template-sitemap.php:34
+msgid "Tags"
+msgstr "Метки"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:303
+msgid "Number of Related Posts"
+msgstr "Количество связанных постов"
+
+# @ liveblog
+#: inc/customizer/panels/general-settings.php:324
+msgid "Show Footer Credit"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:11
+msgid "Homepage"
+msgstr "Главная страница"
+
+# @ liveblog
+#: inc/customizer/panels/home.php:12
+#: inc/customizer/panels/styling-options.php:13
+#: inc/customizer/panels/typography.php:16
+msgid "Here you can change typography of theme"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:19 inc/customizer/panels/home.php:32
+msgid "Home Content"
+msgstr "Содержание главной страницы"
+
+# @ liveblog
+#: inc/customizer/panels/home.php:20
+msgid "Change settings that affect homepage of your blog."
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:35
+msgid "Excerpt"
+msgstr "Выдержка"
+
+# @ liveblog
+#: inc/customizer/panels/home.php:36
+msgid "Full Content"
+msgstr "Полное содержание"
+
+# @ liveblog
+#: inc/customizer/panels/home.php:47
+msgid "Excerpt Length"
+msgstr "Длина выдержки"
+
+# @ liveblog
+#: inc/customizer/panels/home.php:55
+msgid "Featured Slider"
+msgstr "Рекомендуемый Слайдер"
+
+# @ liveblog
+#: inc/customizer/panels/home.php:56
+msgid "Show or hide featured slider below header on homepage."
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:69
+msgid "Show Featured Slider"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:80
+msgid "Featured Slider Posts Count"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:91
+msgid "Featured Slider Cat"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:99
+msgid "Featured Posts"
+msgstr "Лучшие записи"
+
+# @ liveblog
+#: inc/customizer/panels/home.php:100
+msgid "Show or hide featured posts on homepage."
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:112
+msgid "Show Featured Posts"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/home.php:123
+msgid "Featured Posts Cat"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:11
+msgid "Layout Options"
+msgstr "Настройки расположения"
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:12
+msgid "Here you can change layout options of theme"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:15
+msgid "General Layout Settings"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:16
+msgid "Change settings related to layout of home, archive or single pages."
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:28
+msgid "Enable Responsive Layout?"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:39
+msgid "Layout Type"
+msgstr "Тип макета"
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:42
+msgid "Full Width"
+msgstr "По всей ширине"
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:43
+msgid "Boxed"
+msgstr "Рамка"
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:49 inc/customizer/panels/layout.php:60
+msgid "Main Layout"
+msgstr "Основной шаблон"
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:50
+msgid "Change main layout of homepage and search results pages."
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:64
+msgid "Main 2 Col"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:65
+msgid "Main 2 Col Left Sidebar"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:72 inc/customizer/panels/layout.php:83
+msgid "Archive Layout"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:73
+msgid "Change layout of archives (Categories, author pages, tags etc)."
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:87
+msgid "Archive 2 Col"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:88
+msgid "Archive 2 Col Left Sidebar"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:95 inc/customizer/panels/layout.php:106
+msgid "Single Layout"
+msgstr "Расположение на странице записи"
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:96
+msgid "Change layout of single posts and pages."
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:110
+msgid "Single 2 Col"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/layout.php:111
+msgid "Single 2 Col Left Sidebar"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:12
+msgid "Styling Options"
+msgstr "Настройки стилей"
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:20
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:33
+msgid "Primary Color Scheme"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:55
+msgid "Header Background Color"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:65
+msgid "Navigation Menu"
+msgstr "Меню навигации"
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:79
+msgid "Navigation Background Color"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:94
+msgid "Navigation Links Color"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:118
+msgid "Footer Background Color"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:133
+msgid "Footer Widget Title Color"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:148
+msgid "Footer Links and Text Color"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:158
+#: inc/customizer/panels/styling-options.php:172
+msgid "Custom CSS"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/styling-options.php:159
+msgid "You can add your custom CSS here."
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:15
+msgid "Typography Options"
+msgstr "Настройки типографики"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:21
+msgid "Body Font"
+msgstr "Шрифт страницы"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:32
+#: inc/customizer/panels/typography.php:259
+#: inc/customizer/panels/typography.php:311
+#: inc/customizer/panels/typography.php:412
+#: inc/customizer/panels/typography.php:513
+#: inc/customizer/panels/typography.php:595
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:41
+msgid "Logo Font"
+msgstr "Шрифт логотипа"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:53
+#: inc/customizer/panels/typography.php:156
+msgid "Select Font"
+msgstr "Выбор шрифта"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:67
+#: inc/customizer/panels/typography.php:170
+#: inc/customizer/panels/typography.php:270
+#: inc/customizer/panels/typography.php:324
+#: inc/customizer/panels/typography.php:425
+#: inc/customizer/panels/typography.php:526
+#: inc/customizer/panels/typography.php:608
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:70
+#: inc/customizer/panels/typography.php:174
+#: inc/customizer/panels/typography.php:273
+#: inc/customizer/panels/typography.php:327
+#: inc/customizer/panels/typography.php:428
+#: inc/customizer/panels/typography.php:529
+#: inc/customizer/panels/typography.php:611
+msgid "Normal"
+msgstr "Нормальный"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:71
+#: inc/customizer/panels/typography.php:175
+#: inc/customizer/panels/typography.php:274
+#: inc/customizer/panels/typography.php:328
+#: inc/customizer/panels/typography.php:429
+#: inc/customizer/panels/typography.php:530
+#: inc/customizer/panels/typography.php:612
+msgid "Italic"
+msgstr "Курсив"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:84
+#: inc/customizer/panels/typography.php:188
+#: inc/customizer/panels/typography.php:284
+#: inc/customizer/panels/typography.php:340
+#: inc/customizer/panels/typography.php:441
+#: inc/customizer/panels/typography.php:542
+#: inc/customizer/panels/typography.php:624
+msgid "Font Weight"
+msgstr "Толщина Шрифта"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:87
+#: inc/customizer/panels/typography.php:191
+#: inc/customizer/panels/typography.php:287
+#: inc/customizer/panels/typography.php:343
+#: inc/customizer/panels/typography.php:444
+#: inc/customizer/panels/typography.php:545
+#: inc/customizer/panels/typography.php:627
+msgid "Normal: 400"
+msgstr "Нормальный 400"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:88
+#: inc/customizer/panels/typography.php:192
+#: inc/customizer/panels/typography.php:288
+#: inc/customizer/panels/typography.php:344
+#: inc/customizer/panels/typography.php:445
+#: inc/customizer/panels/typography.php:546
+#: inc/customizer/panels/typography.php:628
+msgid "Medium: 500"
+msgstr "Среда: 500"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:89
+#: inc/customizer/panels/typography.php:193
+#: inc/customizer/panels/typography.php:289
+#: inc/customizer/panels/typography.php:345
+#: inc/customizer/panels/typography.php:446
+#: inc/customizer/panels/typography.php:547
+#: inc/customizer/panels/typography.php:629
+msgid "Semi-Bold: 600"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:90
+#: inc/customizer/panels/typography.php:194
+#: inc/customizer/panels/typography.php:290
+#: inc/customizer/panels/typography.php:346
+#: inc/customizer/panels/typography.php:447
+#: inc/customizer/panels/typography.php:548
+#: inc/customizer/panels/typography.php:630
+msgid "Bold: 700"
+msgstr "Жирный: 700"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:91
+#: inc/customizer/panels/typography.php:195
+#: inc/customizer/panels/typography.php:291
+#: inc/customizer/panels/typography.php:347
+#: inc/customizer/panels/typography.php:448
+#: inc/customizer/panels/typography.php:549
+#: inc/customizer/panels/typography.php:631
+msgid "Extra-Bold: 800"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:104
+#: inc/customizer/panels/typography.php:208
+#: inc/customizer/panels/typography.php:360
+#: inc/customizer/panels/typography.php:461
+#: inc/customizer/panels/typography.php:644
+msgid "Text Transform"
+msgstr "Трансформация текста"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:107
+#: inc/customizer/panels/typography.php:647
+msgid "None"
+msgstr "Отсутствует"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:108
+#: inc/customizer/panels/typography.php:212
+#: inc/customizer/panels/typography.php:364
+#: inc/customizer/panels/typography.php:465
+#: inc/customizer/panels/typography.php:648
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:109
+#: inc/customizer/panels/typography.php:213
+#: inc/customizer/panels/typography.php:365
+#: inc/customizer/panels/typography.php:466
+#: inc/customizer/panels/typography.php:649
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:110
+#: inc/customizer/panels/typography.php:214
+#: inc/customizer/panels/typography.php:366
+#: inc/customizer/panels/typography.php:467
+#: inc/customizer/panels/typography.php:650
+msgid "Capitalize"
+msgstr "Прописные"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:122
+#: inc/customizer/panels/typography.php:226
+#: inc/customizer/panels/typography.php:378
+#: inc/customizer/panels/typography.php:479
+#: inc/customizer/panels/typography.php:561
+#: inc/customizer/panels/typography.php:662
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:123
+#: inc/customizer/panels/typography.php:136
+#: inc/customizer/panels/typography.php:227
+#: inc/customizer/panels/typography.php:240
+#: inc/customizer/panels/typography.php:379
+#: inc/customizer/panels/typography.php:392
+#: inc/customizer/panels/typography.php:480
+#: inc/customizer/panels/typography.php:493
+#: inc/customizer/panels/typography.php:562
+#: inc/customizer/panels/typography.php:575
+#: inc/customizer/panels/typography.php:663
+#: inc/customizer/panels/typography.php:676
+msgid "Value in pixels"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:135
+#: inc/customizer/panels/typography.php:239
+#: inc/customizer/panels/typography.php:391
+#: inc/customizer/panels/typography.php:492
+#: inc/customizer/panels/typography.php:574
+#: inc/customizer/panels/typography.php:675
+msgid "Line Height"
+msgstr "Высота линии"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:144
+msgid "Navigation Font"
+msgstr "Шрифт навигации"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:173
+#: inc/customizer/panels/typography.php:211
+#: inc/customizer/panels/typography.php:363
+#: inc/customizer/panels/typography.php:464
+msgid "Default"
+msgstr "По умолчанию"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:248
+msgid "Headings Font"
+msgstr "Шрифт Заголовков"
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:300
+msgid "Post: Entry Title Font"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:401
+msgid "Post: Single Title Font"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:502
+msgid "Post: Content Font"
+msgstr ""
+
+# @ liveblog
+#: inc/customizer/panels/typography.php:584
+msgid "Widgets Title Font"
+msgstr ""
+
+# @ liveblog
+#: inc/template-functions.php:106
+msgid "&larr; Previous"
+msgstr "&larr; Назад"
+
+# @ liveblog
+#: inc/template-functions.php:107
+msgid "Next &rarr;"
+msgstr "Вперед &rarr;"
+
+# @ liveblog
+#: inc/template-functions.php:123
+msgid "Older posts"
+msgstr "Старые записи"
+
+# @ liveblog
+#: inc/template-functions.php:124
+msgid "Newer posts"
+msgstr "Новые записи"
+
+# @ liveblog
+#: inc/template-functions.php:154
+msgid "Published In"
+msgstr "Опубликовано в"
+
+# @ liveblog
+#: inc/template-functions.php:156
+msgid "Previous Article"
+msgstr "Назад"
+
+# @ liveblog
+#: inc/template-functions.php:157
+msgid "Next Article"
+msgstr "Вперед"
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:28
+msgid "(ThemesPie) 125x125 Ad Widget"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:31
+msgid "A widget that displays 125x125 ad"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:133 inc/widgets/widget-cat-posts.php:153
+#: inc/widgets/widget-popular-posts.php:151
+#: inc/widgets/widget-random-posts.php:152
+#: inc/widgets/widget-recent-posts.php:151
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:138
+msgid "Ad1 Link URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:143
+msgid "Ad1 Banner URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:149
+msgid "Ad2 Link URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:154
+msgid "Ad2 Banner URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:160
+msgid "Ad3 Link URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:165
+msgid "Ad3 Banner URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:171
+msgid "Ad4 Link URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad125.php:176
+msgid "Ad4 Banner URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad300.php:28
+msgid "(ThemesPie) 300x250 Ad Widget"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad300.php:31
+msgid "A widget that displays 300x250 ad"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad300.php:92
+msgid "Ad Link URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-ad300.php:97
+msgid "Ad Banner URL:"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:28
+msgid "(ThemesPie) Category Posts"
+msgstr "(ThemesPie) Категория записией"
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:31
+msgid "A widget that displays the recent posts from a single category"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:39 inc/widgets/widget-cat-posts.php:133
+msgid "Category Posts"
+msgstr "Категория записей"
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:157
+#: inc/widgets/widget-popular-posts.php:155
+#: inc/widgets/widget-random-posts.php:156
+#: inc/widgets/widget-recent-posts.php:155 inc/widgets/widget-tabs.php:175
+msgid "Number of posts to show:"
+msgstr "Количество записей:"
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:161
+#: inc/widgets/widget-popular-posts.php:159
+#: inc/widgets/widget-random-posts.php:160
+#: inc/widgets/widget-recent-posts.php:159
+msgid "Widget Style:"
+msgstr "Виджет Стиль:"
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:163
+#: inc/widgets/widget-popular-posts.php:161
+#: inc/widgets/widget-random-posts.php:162
+#: inc/widgets/widget-recent-posts.php:161
+msgid "Small Thumbnail"
+msgstr "Малая миниатюра"
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:164
+#: inc/widgets/widget-popular-posts.php:162
+#: inc/widgets/widget-random-posts.php:163
+#: inc/widgets/widget-recent-posts.php:162
+msgid "Big Thumbnail"
+msgstr "Большая миниатюра"
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:168
+msgid "Category:"
+msgstr "Категория:"
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:186
+#: inc/widgets/widget-popular-posts.php:168
+#: inc/widgets/widget-random-posts.php:169
+#: inc/widgets/widget-recent-posts.php:168 inc/widgets/widget-tabs.php:181
+msgid "Show Thumbnails"
+msgstr "Показать миниатюры"
+
+# @ liveblog
+#: inc/widgets/widget-cat-posts.php:192
+#: inc/widgets/widget-popular-posts.php:174
+#: inc/widgets/widget-random-posts.php:175
+#: inc/widgets/widget-recent-posts.php:174 inc/widgets/widget-tabs.php:187
+msgid "Show Categories"
+msgstr "Показывать категории"
+
+# @ liveblog
+#: inc/widgets/widget-popular-posts.php:28
+msgid "(ThemesPie) Popular Posts"
+msgstr "(ThemesPie) Популярные записи"
+
+# @ liveblog
+#: inc/widgets/widget-popular-posts.php:31
+msgid "A widget that displays the popular posts of your blog"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-popular-posts.php:39
+#: inc/widgets/widget-popular-posts.php:131 inc/widgets/widget-tabs.php:158
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+# @ liveblog
+#: inc/widgets/widget-random-posts.php:28
+msgid "(ThemesPie) Random Posts"
+msgstr "(ThemesPie) Случайные записи"
+
+# @ liveblog
+#: inc/widgets/widget-random-posts.php:31
+msgid "A widget that displays the random posts of your blog"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-random-posts.php:39
+#: inc/widgets/widget-random-posts.php:132
+msgid "Random Posts"
+msgstr "Случайные записи"
+
+# @ liveblog
+#: inc/widgets/widget-recent-posts.php:28
+msgid "(ThemesPie) Recent Posts"
+msgstr "(ThemesPie) Последние записи"
+
+# @ liveblog
+#: inc/widgets/widget-recent-posts.php:31
+msgid "A widget that displays the recent posts of your blog"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-recent-posts.php:39
+#: inc/widgets/widget-recent-posts.php:132 template-archive.php:38
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+# @ liveblog
+#: inc/widgets/widget-social.php:28
+msgid "(ThemesPie) Social Widget"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:31
+msgid "A widget that displays links to your social profiles"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:39 inc/widgets/widget-social.php:143
+msgid "Social Media"
+msgstr "Социальные сети"
+
+# @ liveblog
+#: inc/widgets/widget-social.php:165
+msgid "Title"
+msgstr "Заголовок"
+
+# @ liveblog
+#: inc/widgets/widget-social.php:172
+msgid "Open Links in New Window"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:177
+msgid "Facebook URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:182
+msgid "Twitter URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:187
+msgid "Google+ URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:192
+msgid "RSS URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:197
+msgid "Pinterest URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:202
+msgid "LinkedIn URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:207
+msgid "Flickr URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:212
+msgid "Instagram URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:217
+msgid "YouTube URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:222
+msgid "tumblr URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:227
+msgid "Dribbble URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:232
+msgid "GitHub URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-social.php:237
+msgid "Xing URL"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-tabs.php:28
+msgid "(ThemesPie) Tabs Widget"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-tabs.php:31
+msgid "A widget that displays tabbed widget on your blog"
+msgstr ""
+
+# @ liveblog
+#: inc/widgets/widget-tabs.php:52
+msgid "Popular"
+msgstr "Популярное"
+
+# @ liveblog
+#: inc/widgets/widget-tabs.php:53
+msgid "Recent"
+msgstr "Последние"
+
+# @ liveblog
+#: page-nosidebar.php:40 template-archive.php:30
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+# @ liveblog
+#: page.php:34 template-parts/post-meta.php:24
+msgid "Edit"
+msgstr "Изменить"
+
+# @ liveblog
+#: search.php:16
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+# @ liveblog
+#: searchform.php:3
+msgid "Type Here and Press Enter"
+msgstr "Введите поисковый запрос"
+
+# @ liveblog
+#: searchform.php:6
+msgid "Search"
+msgstr "Поиск"
+
+# @ liveblog
+#: single.php:42
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ liveblog
+#: template-archive.php:44
+msgid "Archives by Categories"
+msgstr "Категория"
+
+# @ liveblog
+#: template-archive.php:50
+msgid "Archives by Month"
+msgstr "Архивы по месяцам"
+
+# @ liveblog
+#: template-archive.php:56
+msgid "Archives by Year"
+msgstr "Архивы по годам"
+
+# @ liveblog
+#: template-archive.php:62
+msgid "Archives by Tags"
+msgstr "Архивы по меткам"
+
+# @ liveblog
+#: template-archive.php:73 template-sitemap.php:45 template-sitemap.php:51
+msgid "Authors"
+msgstr "Авторы"
+
+# @ liveblog
+#: template-parts/author-box.php:2
+msgid "About Author"
+msgstr "Об авторе"
+
+# @ liveblog
+#: template-parts/featured-posts.php:40 template-parts/featured-slider.php:49
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ liveblog
+#: template-parts/post-meta.php:22
+msgid "Leave a Comment"
+msgstr "Комментировать"
+
+# @ liveblog
+#: template-parts/post-meta.php:22
+msgid "Comments are off"
+msgstr "Комментарии отключены"
+
+# @ liveblog
+#: template-sitemap.php:18
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+# @ liveblog
+#: template-sitemap.php:28
+msgid "Pages"
+msgstr "Страницы"
